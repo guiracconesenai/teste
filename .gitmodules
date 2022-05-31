@@ -1,0 +1,3 @@
+[submodule "submodelo/submodel"]
+	path = submodelo/submodel
+	url = https://github.com/guiracconesenai/submodel.git
